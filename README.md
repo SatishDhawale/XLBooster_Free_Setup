@@ -1,7 +1,8 @@
 # XLBooster_Free_Setup
 Download XLBooster Free Setup and Install  
-This is Basic Plan for limited features acces
-To Get Premium Plant Visit : https://xlbooster.com/
+This is Basic Plan with limited features 
+
+👉To Get Premium Plant Visit : https://xlbooster.com/
 
 1) Download and File - XLBooster_Free_Insaller.xlsm
 
